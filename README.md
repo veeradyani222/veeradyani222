@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning back end development
 - 💞️ I’m looking to collaborate on front end development projects
 - 📫 please mail me at - veeradyani2@gmail.com
-- 😄 Pronouns:he/him
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: im very generous..
 
 <!---
